@@ -1,4 +1,4 @@
-# Catalyst-In-Chief
+# The Open Organization: Catalyst-In-Chief
 
 This respository contains files related to Jim Whitehurst's June 2016 book, [_Catalyst-In-Chief_](https://opensource.com/open-organization/16/5/year-conversations-about-open-organization). The book is a follow-up to the author's 2015 book, [_The Open Organization_](https://opensource.com/open-organization) (Harvard Business Review Press).
 
