@@ -2,6 +2,8 @@
 
 This respository contains files related to Jim Whitehurst's June 2016 book, [_Catalyst-In-Chief_](https://opensource.com/open-organization/16/5/year-conversations-about-open-organization). The book is a follow-up to the author's 2015 book, [_The Open Organization_](https://opensource.com/open-organization) (Harvard Business Review Press).
 
+Note that this book is now out of print. Please see _Organize for Innovation_ for additional details.
+
 ## About the book
 
 One year after the publication of _The Open Organization_, Red Hat President and CEO Jim Whitehurst explains what the community of innovative thinkers, writers, and practitioners that coalesced around his writing have taught him about the future of management and work.
