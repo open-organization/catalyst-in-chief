@@ -2,7 +2,7 @@
 
 This respository contains files related to Jim Whitehurst's June 2016 book, [_Catalyst-In-Chief_](https://opensource.com/open-organization/16/5/year-conversations-about-open-organization). The book is a follow-up to the author's 2015 book, [_The Open Organization_](https://opensource.com/open-organization) (Harvard Business Review Press).
 
-Note that this book is now out of print. Please see _Organize for Innovation_ for additional details.
+Note that this book is now out of print. Please see [_Organize for Innovation_](https://github.com/open-organization-ambassadors/organize-for-innovation) for additional details.
 
 ## About the book
 
